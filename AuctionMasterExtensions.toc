@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: AuctionMaster Extensions
+## Notes: Waylaid Crates search tool.
+## Version: 11.6.6-1.0
+## X-AuctionMaster-Version: v11.6.6
+## Dependencies: AuctionMaster
+## SavedVariables: AuctionMasterExtensionsDB
+
+Core.lua
+Locales.lua
+CrateData.lua
+CratePrices.lua
+CratePlanner.lua
+CrateScan.lua
+CrateList.lua
+CratePanel.lua
